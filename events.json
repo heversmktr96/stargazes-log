@@ -1,0 +1,26 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "owner": "freeCodeCamp",
+    "description": "A community-driven platform for learning to code.",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "language": "TypeScript",
+    "starredAt": "2025-02-14"
+  },
+  {
+    "name": "The Odin Project",
+    "owner": "TheOdinProject",
+    "description": "An open-source curriculum for learning web development.",
+    "url": "https://github.com/TheOdinProject/curriculum",
+    "language": "HTML",
+    "starredAt": "2025-01-28"
+  },
+  {
+    "name": "You Don't Know JS Yet",
+    "owner": "getify",
+    "description": "A book series on the core mechanisms of JavaScript.",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "language": "JavaScript",
+    "starredAt": "2024-12-03"
+  }
+]
